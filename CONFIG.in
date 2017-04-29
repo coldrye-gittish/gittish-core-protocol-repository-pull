@@ -1,0 +1,3 @@
+GTS_BUILD_PROJECT := /var/workspaces/gittish/gittish-core-protocol-repository-pull
+PROJECT := gittish-core-protocol-repository-pull
+PACKAGE := gittish_core_protocol_repository_pull
